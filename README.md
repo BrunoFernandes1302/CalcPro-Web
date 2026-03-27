@@ -4,4 +4,4 @@ Aplicação web de calculadora desenvolvida com HTML, CSS e JavaScript, focada e
 
 Resultado:
 
-Img_projeto.png
+![alt text](Img_projeto.png)
